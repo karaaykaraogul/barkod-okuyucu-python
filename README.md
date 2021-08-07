@@ -1,0 +1,2 @@
+# barkod-okuyucu-python
+ 
